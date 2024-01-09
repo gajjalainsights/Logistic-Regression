@@ -1,10 +1,6 @@
-# Logistic-Regression
+# Logistic Regression
 
 
-<p align="center">
-Embarked: <br/>
-<img src="https://imgur.com/a/kKndGn4" height="80%" width="80%" alt="Embarked"/>
-<br />
 
 <!--
 <h1>JWipe - Disk Sanitization</h1>
