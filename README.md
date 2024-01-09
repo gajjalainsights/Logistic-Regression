@@ -3,7 +3,7 @@
 
 <p align="center">
 Embarked: <br/>
-<img src="https://imgur.com/a7bLK84"/>
+<img src="https://imgur.com/a/kKndGn4" height="80%" width="80%" alt="Embarked"/>
 <br />
 
 <!--
